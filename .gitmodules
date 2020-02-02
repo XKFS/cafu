@@ -3,4 +3,4 @@
     url = https://bitbucket.org/cafu/textures.git
 [submodule "ExtLibs/glfw"]
     path = ExtLibs/glfw
-    url = https://github.com/CarstenF/glfw.git
+    url = https://github.com/carstenfuchs/glfw.git

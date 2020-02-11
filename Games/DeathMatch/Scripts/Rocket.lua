@@ -1,3 +1,5 @@
+dofile("Games/DeathMatch/Scripts/Vector3.lua")
+
 local Rocket = ...   -- Retrieve the ComponentScriptT instance that is responsible for this script.
 
 local Trafo = Rocket:GetEntity():GetTransform()

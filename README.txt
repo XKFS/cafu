@@ -1,4 +1,4 @@
-# Cafu Game and Graphics Engine                           http://www.cafu.de
+# Cafu Game and Graphics Engine
 Welcome to Cafu, the open-source Game and Graphics Engine for multiplayer, cross-platform, real-time 3D Action.
 
 This readme gets you started with the Cafu binary demo packages. The demo packages are archives that contain precompiled program executables and everything else that is required to run the Cafu engine demo. If you are interested in getting and compiling the source code instead, refer to the Cafu documentation at http://www.cafu.de/wiki/
